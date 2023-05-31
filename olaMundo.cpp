@@ -2,4 +2,6 @@
 
 int main (void) {
     printf("Ola mundo!");
+
+    return 0;
 }
